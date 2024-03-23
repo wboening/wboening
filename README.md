@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wboening
-- 👀 I’m interested in flutter and noSql databases
+- 👀 I’m interested in flutter and noSql databases and postgresql / supabase
 - 🌱 I’m currently learning flutter and ObjectBox to implement apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
